@@ -10,7 +10,7 @@ import './index.css'
 
 import App from './App'
 import Munnar from './pages/Munnar'
-import Wayanad from './pages/Wayanad'
+import Wayanad from './pages/WayanadPage'
 import Coorg from './pages/Coorg'
 import Kodaikanal from './pages/Kodaikanal'
 import Varkala from './pages/Varkala'
