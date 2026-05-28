@@ -14,7 +14,7 @@ import Wayanad from './pages/Wayanad'
 import Coorg from './pages/Coorg'
 import Kodaikanal from './pages/Kodaikanal'
 import Varkala from './pages/Varkala'
-import Murudeshwara from './pages/murudeshwara'
+import Murudeshwara from './pages/Murudeshwara'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

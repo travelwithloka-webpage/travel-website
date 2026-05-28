@@ -1,4 +1,4 @@
-export default function murudeshwara() {
+export default function Murudeshwara() {
   return (
     <div className="min-h-screen bg-black text-white">
 
